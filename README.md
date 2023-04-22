@@ -45,12 +45,14 @@ Una vez que se han proporcionado los parámetros necesarios, la aplicación se e
 
 
 ## **Pasos**
-1. Instale su certificado en su computador
+1. Instale su certificado en su computador (Clic para abrir el gift)
 
 <p align="center"><a href="https://ibb.co/yFt46rN"><img src="https://i.ibb.co/nM9P7Fw/ezgif-com-video-to-gif.gif" alt="ezgif-com-video-to-gif" border="0"></a></p>
 
-2. Al ejercutar el programa, para firmar deberemos elegir nuestro certificado
+2. Al ejercutar el programa, para firmar deberemos elegir nuestro certificado (Clic para abrir el gift)
+3. 
 <p align="center"><a href="https://ibb.co/xFzgQdk"><img src="https://i.ibb.co/bbNvnD0/ezgif-com-video-to-gif-1.gif" alt="ezgif-com-video-to-gif-1" border="0"></a></p>
+
 3. Puede comprobar la emision de su factura con la clave de Accesso en el portal web del SRI
 
 
