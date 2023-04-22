@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Librerias\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Security.Cryptography.Xml" Version="7.0.1" />
+    <PackageReference Include="System.Windows.Extensions" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto">
+      <HintPath>Librerias\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="FirmaXadesNet">
+      <HintPath>Librerias\FirmaXadesNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xades">
+      <HintPath>Librerias\Microsoft.Xades.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
